@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Deportes</title>
+        <link></link>
+        <description></description>
+        <language>es</language>
+        <pubDate></pubDate>
+        <lastBuildDate></lastBuildDate>
+        <docs></docs>
+        
+        
+        <item>
+            <title></title>
+            <link></link>
+            <description></description>
+            <pubDate></pubDate>
+        </item>
+        
+        
+        <item>
+            <title></title>
+            <link></link>
+            <description></description>
+            <pubDate></pubDate>
+        </item>
+        
+        
+        <item>
+            <title></title>
+            <link></link>
+            <description></description>
+            <pubDate></pubDate>
+        </item>
+    </channel>
+</rss>
