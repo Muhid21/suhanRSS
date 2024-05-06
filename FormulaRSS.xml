@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Noticias Culé</title>
-        <link>https://www.fcbarcelona.com/photo-resources/2019/11/15/ea1926dc-fe06-460f-ac24-7be75866e8f7/comunicacio-institucional.jpg?width=1200&amp;height=750</link>
+        <title>Formula 1</title>
+        <link></link>
 
-        <description>Noticias de Futbol Europea</description>
+        <description>Noticias Recientes del Gran Premio de MIAMI</description>
         <language>es</language>
         <pubDate>Mon, 01 May 2024 00:00:00 GMT</pubDate>
         <lastBuildDate>Mon, 06 May 2024 12:00:00 GMT</lastBuildDate>
@@ -12,25 +12,25 @@
         
         
         <item>
-            <title>Fc Barcelona</title>
-            <link>https://www.marca.com/futbol/barcelona/2024/05/06/66385408e2704e02168b4571.html</link>
-            <description>La mala gestion de vitor roque sale en titular</description>
-            <pubDate></pubDate>
-        </item>
-        
-        
-        <item>
-            <title>Barcelona Femeni</title>
-            <link>https://www.relevo.com/futbol/liga-femenina/dias-vestuario-barca-campeon-soporto-20240505024810-nt.html</link>
-            <description>El Barca Femeni gana su quinto titulo liguero seguido con absoluta dominancia</description>
+            <title>Lando Norris toca la gloria</title>
+            <link>https://www.caranddriver.com/es/formula-1/a60543312/lando-norris-pole-sprint-shootout-lluvia-hamilton-alonso/</link>
+            <description>El jovensisimo piloto ingles toca el primer puesto despues de un masterclass en frente de redbull</description>
             <pubDate>Mon, 06 May 2024 09:00:00 GMT</pubDate>
         </item>
         
         
         <item>
-            <title>Dia triste en Liverpool</title>
-            <link>https://www.eldesmarque.com/futbol/mercado-de-fichajes/20240505/barca-mira-darwin-nunez-reemplazo-lewandowski_300323953.html</link>
-            <description>El proclamado delantero Urugayo manda señales de salir del gigante Ingles a finales de temporada, Y el barca es su mayor pretendiente.</description>
+            <title>Aston Martin estalla</title>
+            <link>https://twitter.com/AstonMartinF1/status/1787235666876592246?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet</link>
+            <description>La monoplaza del equipo de Silverstone no da para más, ha ido a peor con el concepto del año pasado</description>
+            <pubDate>Mon, 06 May 2024 09:00:00 GMT</pubDate>
+        </item>
+        
+        
+        <item>
+            <title>La FIA y la persecución contra Pilotos de nacionalidades distintas</title>
+            <link>https://as.com/motor/formula_1/si-lo-hago-yo-me-sancionan-n/</link>
+            <description>Se rumorea que La FIA sanciona mas duro a los pilotos de diferentes nacionalidades que los ingeles. Se ha visto a Fernando Alonso hablando con el Presidente de la FIA para hablar sobre el futuro de los jóvenes españoles.</description>
             <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
         </item>
     </channel>
